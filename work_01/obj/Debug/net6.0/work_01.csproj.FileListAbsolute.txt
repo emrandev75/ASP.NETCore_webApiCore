@@ -1,0 +1,225 @@
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\appsettings.Development.json
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\appsettings.json
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\work_01.exe
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\work_01.deps.json
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\work_01.runtimeconfig.json
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\work_01.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\work_01.pdb
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Humanizer.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.csproj.AssemblyReference.cache
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.AssemblyInfoInputs.cache
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.AssemblyInfo.cs
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.csproj.CoreCompileInputs.cache
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.MvcApplicationPartsAssemblyInfo.cs
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.MvcApplicationPartsAssemblyInfo.cache
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.props
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.props
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.props
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\staticwebassets.pack.json
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\staticwebassets.build.json
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\staticwebassets.development.json
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\scopedcss\bundle\work_01.styles.css
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.csproj.CopyComplete
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\refint\work_01.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.pdb
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\work_01.genruntimeconfig.cache
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\obj\Debug\net6.0\ref\work_01.dll
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\libman.json
+D:\c#-class\Angular\Exam-16\localhost\localhost_01\work_01\bin\Debug\net6.0\work_01.staticwebassets.runtime.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\appsettings.Development.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\appsettings.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\libman.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\work_01.staticwebassets.runtime.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\work_01.exe
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\work_01.deps.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\work_01.runtimeconfig.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\work_01.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\work_01.pdb
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Humanizer.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.csproj.AssemblyReference.cache
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.AssemblyInfoInputs.cache
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.AssemblyInfo.cs
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.csproj.CoreCompileInputs.cache
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.MvcApplicationPartsAssemblyInfo.cs
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.MvcApplicationPartsAssemblyInfo.cache
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.props
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.props
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.props
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\staticwebassets.pack.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\staticwebassets.build.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\staticwebassets.development.json
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\scopedcss\bundle\work_01.styles.css
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.csproj.CopyComplete
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\refint\work_01.dll
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.pdb
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\work_01.genruntimeconfig.cache
+D:\c#-class\idb project\api_mvc\Api_Core\work_01\obj\Debug\net6.0\ref\work_01.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\libman.json
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\work_01.staticwebassets.runtime.json
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\work_01.exe
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\work_01.deps.json
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\work_01.runtimeconfig.json
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\work_01.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\work_01.pdb
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.AssemblyInfo.cs
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\staticwebassets\msbuild.work_01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\staticwebassets\msbuild.build.work_01.props
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.work_01.props
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.work_01.props
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\scopedcss\bundle\work_01.styles.css
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.csproj.CopyComplete
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\refint\work_01.dll
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.pdb
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\work_01.genruntimeconfig.cache
+C:\Users\User\Desktop\apiMvc\Web-API-ASP.NETCore\work_01\obj\Debug\net6.0\ref\work_01.dll
